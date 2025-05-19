@@ -47,10 +47,9 @@ ffmpy==0.3.1
 python-dotenv>=1.0.0
 av
 basemap
-#
-thinc==8.3.5
-langchain-core==0.2.99
-langchain==0.2.99
+thinc==8.3.4
+langchain-core==0.2.43
+langchain==0.2.17
 db-dtypes==1.4.2
 google-cloud-bigquery==3.31.0
 albumentations==1.3.1
